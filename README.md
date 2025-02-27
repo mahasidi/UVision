@@ -8,3 +8,5 @@ UVision is a lamp designed to visualize UV exposure, updating daily. It adjusts 
 
 Built with an Arduino board, Neopixel strip for lighting, arcade button for mode switching, and a piezo buzzer for feedback, UVision is housed in a laser cut stand with a resin printed sun display. </br> </br> *For demonstration purposes, the lamp currently shows the UV monthly average for Boston in 2022.*
 
+Breadboard Diagram: </br>
+<img src="https://github.com/user-attachments/assets/5dcdb48f-6123-4bcd-9f06-9539a1130244" alt="UVision" width="400">
